@@ -1,0 +1,61 @@
+S.no,Section,Nomenclature,Bom Qty,stock,11(A/I/F),12(A/I/F),13(A/I/F),14(A/I/F),15(A/I/F),16(A/I/F),17(A/I/F),18(A/I/F),Available Up To
+,,MES,,,,,,,,,,,
+,,AIR FRAME,,,,,,,,,,,
+1,Section I,AIR FRAME - I,1,24,A,A,A,A,A,A,A,A,AP  25
+2,Section I,FRAME,1,24,A,S,A,A,A,A,A,A,AP 25
+3,Section I,AIR,1,0,S,S,S,S,S,S,S,S,AP 0
+,,Brackets,,,,,,,,,,,
+4,Section I,BB,2,52,A,A,A,A,A,A,A,A,AP  27
+9,Section I,CAP,1,25,A,S,A,A,A,A,A,A,AP 26
+10,Section I,CPP,1,25,A,S,A,A,A,A,A,A,AP 26
+,,Packages,,,,,,,,,,,
+15,Section I,BS,8,195,A,A,A,A,A,A,A,A,AP 25
+16,Section I,CCS,7,165,A,A,A,A,A,A,A,A,AP 24
+,,RSC,,,,,,,,,,,
+17,Section I,RSP,1,-4,S,S,S,S,A,A,A,A,AP 0
+23,Section I,CBAB,-,-,,,,,A,A,A,A,AP 0
+,,MES,,,,,,,,,,,
+,,AIR FRAME,,,,,,,,,,,
+1,Section II,AIR FRAME - II,1,24,A,A,A,A,A,A,A,A,AP 25
+2,Section II,FRAME,1,24,A,A,A,A,A,A,A,A,AP 25
+3,Section II,AIR,1,0,S,S,S,S,S,S,S,S,AP 0
+,,Brackets,,,,,,,,,,,
+4,Section II,BB,2,52,A,A,A,A,A,A,A,A,AP 27
+9,Section II,CAP,1,25,A,A,A,A,A,A,A,A,AP 26
+10,Section II,CPP,1,25,A,A,A,A,A,A,A,A,AP 26
+,,Packages,,,,,,,,,,,
+15,Section II,BS,8,195,A,A,A,A,A,A,A,A,AP 25
+16,Section II,CCS,7,165,A,A,A,A,A,A,A,A,AP 24
+,,RSC,,,,,,,,,,,
+17,Section II,RSP,1,24,A,A,A,A,A,A,A,A,AP 25
+23,Section II,SBAB,1,25,A,A,A,A,A,A,A,A,AP 26
+,,MES,,,,,,,,,,,
+,,AIR FRAME,,,,,,,,,,,
+1,Section III,AIR FRAME - III,1,24,A,A,A,A,A,A,A,A,AP 25
+2,Section III,FRAME,1,24,A,A,A,A,A,A,A,A,AP 25
+3,Section III,AIR,1,0,S,S,S,S,S,S,S,S,AP 0
+,,Brackets,,,,,,,,,,,
+4,Section III,BB,2,52,A,A,A,A,A,A,A,A,AP 27
+9,Section III,CAP,1,25,A,A,A,A,A,A,A,A,AP 26
+10,Section III,CPP,1,25,A,A,A,A,A,A,A,A,AP 26
+,,Packages,,,,,,,,,,,
+15,Section III,BS,8,195,A,A,A,A,A,A,A,A,AP 25
+16,Section III,CCS,7,165,A,A,A,A,A,A,A,A,AP 24
+,,RSC,,,,,,,,,,,
+17,Section III,RSP,1,24,A,A,A,A,A,A,A,A,AP 25
+23,Section III,SBAB,1,25,A,A,A,A,A,A,A,A,AP 26
+,,MES,,,,,,,,,,,
+,,AIR FRAME,,,,,,,,,,,
+1,Section IV,AIR FRAME - IV,1,24,A,A,A,A,A,A,A,A,AP 25
+2,Section IV,FRAME,1,24,A,A,A,A,A,A,A,A,AP 25
+3,Section IV,AIR,1,0,S,S,S,S,S,S,S,S,AP 0
+,,Brackets,,,,,,,,,,,
+4,Section IV,BB,2,52,A,A,A,A,A,A,A,A,AP 27
+9,Section IV,CAP,1,25,A,A,A,A,A,A,A,A,AP 26
+10,Section IV,CPP,1,25,A,A,A,A,A,A,A,A,AP 26
+,,Packages,,,,,,,,,,,
+15,Section IV,BS,8,195,A,A,A,A,A,A,A,A,AP 25
+16,Section IV,CCS,7,165,A,A,A,A,A,A,A,A,AP 24
+,,RSC,,,,,,,,,,,
+17,Section IV,RSP,1,24,A,A,A,A,A,A,A,A,AP 25
+23,Section IV,SBAB,1,25,A,A,A,A,A,A,A,A,AP 26
